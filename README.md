@@ -1,2 +1,2 @@
-# Keyboard_Input_Test
-키보드 입력 테스트 (spline design practice)
+# Practice
+개인적으로 공부하고 연습한 자료들을 모아두는 곳!
